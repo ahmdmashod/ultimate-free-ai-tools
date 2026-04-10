@@ -15,6 +15,10 @@
 - 📊 Productivity Tools
 - 📚 Study Tools
 - 💼 Business Tools
+- 🔊 Voice AI Tools
+- 🤖 Automation Tools
+- 🎨 Design Tools
+- 🤖 AI Chatbots
 
 ---
 
@@ -30,6 +34,8 @@
 | Grammarly | Yes | Grammar & Editing |
 | QuillBot | Yes | Paraphrasing |
 
+---
+
 ### 🎨 Image Tools
 
 | Tool | Free Plan | Best For |
@@ -40,6 +46,8 @@
 | DALL·E | Limited | Creative Images |
 | Stable Diffusion | Yes | Open Image Generation |
 
+---
+
 ### 🎬 Video Tools
 
 | Tool | Free Plan | Best For |
@@ -49,6 +57,8 @@
 | Synthesia | Limited | AI Avatars |
 | CapCut AI | Yes | Short Videos |
 
+---
+
 ### 💻 Coding Tools
 
 | Tool | Free Plan | Best For |
@@ -57,6 +67,8 @@
 | Codeium | Yes | Free AI Coding |
 | Replit AI | Limited | Code Generation |
 | Tabnine | Yes | Code Completion |
+
+---
 
 ### 📊 Productivity Tools
 
@@ -68,6 +80,8 @@
 | Gamma AI | Yes | Slides |
 | Perplexity AI | Yes | Research |
 
+---
+
 ### 📚 Study Tools
 
 | Tool | Free Plan | Best For |
@@ -76,24 +90,71 @@
 | Quizlet AI | Limited | Study Help |
 | Socratic | Yes | Homework Support |
 
+---
+
 ### 💼 Business Tools
 
 | Tool | Free Plan | Best For |
 |------|----------|----------|
 | Jasper | Limited | Marketing |
 | Beautiful.ai | Limited | Business Presentations |
+
+---
+
+### 🔊 Voice AI Tools
+
+| Tool | Free Plan | Best For |
+|------|----------|----------|
 | ElevenLabs | Yes | Voiceovers |
 | Murf AI | Limited | AI Voice |
+| PlayHT | Yes | Text to Speech |
+| Resemble AI | Limited | Voice Cloning |
+
+---
+
+### 🤖 Automation Tools
+
+| Tool | Free Plan | Best For |
+|------|----------|----------|
+| Zapier | Limited | Workflow Automation |
+| Make (Integromat) | Yes | Automation |
+| Bardeen AI | Yes | Task Automation |
+| AgentGPT | Yes | AI Agents |
+| AutoGPT | Yes | Autonomous Tasks |
+
+---
+
+### 🎨 Design Tools
+
+| Tool | Free Plan | Best For |
+|------|----------|----------|
+| Figma AI | Yes | UI Design |
+| Uizard | Yes | App Design |
+| Khroma | Yes | Color Tools |
+| Designs.ai | Limited | Branding |
+| Looka | Limited | Logo Design |
+
+---
+
+### 🤖 AI Chatbots
+
+| Tool | Free Plan | Best For |
+|------|----------|----------|
+| Poe AI | Yes | Multi AI Chat |
+| Character AI | Yes | AI Chat |
+| ChatSonic | Yes | AI Assistant |
+| Pi AI | Yes | Personal AI |
+| Claude | Yes | AI Chat |
 
 ---
 
 ## 🚀 Why This Repo?
 
-- ✅ Free AI tools in one place
-- ✅ Useful for beginners and professionals
-- ✅ Clean and simple collection
-- ✅ Regularly updated
-- ✅ Easy to explore
+- ✅ Free AI tools in one place  
+- ✅ Useful for beginners and professionals  
+- ✅ Clean and simple collection  
+- ✅ Regularly updated  
+- ✅ Easy to explore  
 
 ---
 
@@ -101,9 +162,9 @@
 
 Want to add a useful AI tool?
 
-1. Fork this repo
-2. Add the tool in the correct category
-3. Submit a Pull Request
+1. Fork this repo  
+2. Add the tool in the correct category  
+3. Submit a Pull Request  
 
 ---
 
@@ -111,9 +172,9 @@ Want to add a useful AI tool?
 
 If you found this repo useful:
 
-- Star ⭐ the repo
-- Share it with friends
-- Contribute more tools
+- Star ⭐ the repo  
+- Share it with friends  
+- Contribute more tools  
 
 ---
 
