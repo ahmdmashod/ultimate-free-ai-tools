@@ -1,4 +1,4 @@
-# 🚀 Ultimate Free AI Tools (2026)
+# 🚀 Ultimate Free AI Tools (2026) - 50+ Tools 🚀
 
 <img src="https://github.com/user-attachments/assets/532539cb-0d67-45c4-a616-984a9cf181c7" width="100%" />
 
@@ -42,6 +42,8 @@
 | Writesonic | Yes | Content Writing |
 | Grammarly | Yes | Grammar & Editing |
 | QuillBot | Yes | Paraphrasing |
+| Rytr | Yes | Content Writing |
+| Sudowrite | Limited | Creative Writing |
 
 ---
 
@@ -54,6 +56,8 @@
 | Canva AI | Yes | Design |
 | DALL·E | Limited | Creative Images |
 | Stable Diffusion | Yes | Open Image Generation |
+| Ideogram AI | Yes | Text to Image |
+| ClipDrop | Yes | Image Editing |
 
 ---
 
@@ -65,6 +69,8 @@
 | Pictory | Yes | AI Videos |
 | Synthesia | Limited | AI Avatars |
 | CapCut AI | Yes | Short Videos |
+| HeyGen | Limited | AI Avatars |
+| Luma AI | Yes | 3D Video |
 
 ---
 
@@ -76,6 +82,8 @@
 | Codeium | Yes | Free AI Coding |
 | Replit AI | Limited | Code Generation |
 | Tabnine | Yes | Code Completion |
+| Cursor AI | Yes | AI Code Editor |
+| Blackbox AI | Yes | Code Search |
 
 ---
 
@@ -88,6 +96,8 @@
 | Tome AI | Yes | Presentations |
 | Gamma AI | Yes | Slides |
 | Perplexity AI | Yes | Research |
+| Motion AI | Limited | Time Management |
+| Mem AI | Yes | Smart Notes |
 
 ---
 
@@ -174,6 +184,8 @@ Want to add a useful AI tool?
 1. Fork this repo  
 2. Add the tool in the correct category  
 3. Submit a Pull Request  
+
+We welcome contributions! Feel free to add useful AI tools.
 
 ---
 
