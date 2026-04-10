@@ -1,8 +1,10 @@
-# 🚀 Ultimate Free AI Tools (2026)
+<img width="1434" height="860" alt="image" src="https://github.com/user-attachments/assets/532539cb-0d67-45c4-a616-984a9cf181c7" /># 🚀 Ultimate Free AI Tools (2026)
 
 🔥 The ultimate curated list of **FREE AI tools** for developers, students, freelancers, and creators.
 
 ⭐ If this repo helps you, please star it!
+ />
+
 
 ---
 
