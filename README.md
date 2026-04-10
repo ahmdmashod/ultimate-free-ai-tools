@@ -1,4 +1,4 @@
-# 🚀 Ultimate Free AI Tools (2026) - 50+ Tools 🚀
+# 🚀 Ultimate Free AI Tools (2026) - 70+ Tools 🚀
 
 <img src="https://github.com/user-attachments/assets/532539cb-0d67-45c4-a616-984a9cf181c7" width="100%" />
 
@@ -44,6 +44,8 @@
 | QuillBot | Yes | Paraphrasing |
 | Rytr | Yes | Content Writing |
 | Sudowrite | Limited | Creative Writing |
+| Wordtune | Yes | Rewriting |
+| Simplified AI | Yes | Content & Marketing |
 
 ---
 
@@ -58,6 +60,8 @@
 | Stable Diffusion | Yes | Open Image Generation |
 | Ideogram AI | Yes | Text to Image |
 | ClipDrop | Yes | Image Editing |
+| Mage AI | Yes | Image Generation |
+| Artbreeder | Yes | AI Images |
 
 ---
 
@@ -71,6 +75,8 @@
 | CapCut AI | Yes | Short Videos |
 | HeyGen | Limited | AI Avatars |
 | Luma AI | Yes | 3D Video |
+| Descript | Yes | Video & Audio Editing |
+| FlexClip AI | Yes | Video Creation |
 
 ---
 
@@ -84,6 +90,8 @@
 | Tabnine | Yes | Code Completion |
 | Cursor AI | Yes | AI Code Editor |
 | Blackbox AI | Yes | Code Search |
+| CodiumAI | Yes | Code Testing |
+| Mutable AI | Limited | Code Generation |
 
 ---
 
@@ -98,6 +106,8 @@
 | Perplexity AI | Yes | Research |
 | Motion AI | Limited | Time Management |
 | Mem AI | Yes | Smart Notes |
+| Superhuman AI | Limited | Email Productivity |
+| Rewind AI | Limited | Memory Assistant |
 
 ---
 
@@ -108,6 +118,8 @@
 | Khanmigo | Limited | Learning |
 | Quizlet AI | Limited | Study Help |
 | Socratic | Yes | Homework Support |
+| Explainpaper | Yes | Research Help |
+| Elicit AI | Yes | Research Assistant |
 
 ---
 
@@ -117,6 +129,8 @@
 |------|----------|----------|
 | Jasper | Limited | Marketing |
 | Beautiful.ai | Limited | Business Presentations |
+| CopyMonkey | Yes | E-commerce Copy |
+| Ocoya | Yes | Social Media AI |
 
 ---
 
