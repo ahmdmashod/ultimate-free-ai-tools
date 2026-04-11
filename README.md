@@ -1,4 +1,4 @@
-# 🚀 Ultimate Free AI Tools (2026) - 70+ Tools 🚀
+# 🚀 Ultimate Free AI Tools (2026) - 90+ Tools 🚀
 
 <img src="https://github.com/user-attachments/assets/532539cb-0d67-45c4-a616-984a9cf181c7" width="100%" />
 
@@ -46,6 +46,9 @@
 | Sudowrite | Limited | Creative Writing |
 | Wordtune | Yes | Rewriting |
 | Simplified AI | Yes | Content & Marketing |
+| HyperWrite | Yes | AI Writing |
+| Anyword | Limited | Marketing Content |
+| Jenni AI | Yes | Academic Writing |
 
 ---
 
@@ -62,6 +65,9 @@
 | ClipDrop | Yes | Image Editing |
 | Mage AI | Yes | Image Generation |
 | Artbreeder | Yes | AI Images |
+| DreamStudio | Yes | Stable Diffusion Images |
+| Adobe Firefly | Yes | Creative Design |
+| Craiyon | Yes | Quick Image Generation |
 
 ---
 
@@ -77,6 +83,9 @@
 | Luma AI | Yes | 3D Video |
 | Descript | Yes | Video & Audio Editing |
 | FlexClip AI | Yes | Video Creation |
+| VEED.IO | Yes | Online Video Editing |
+| InVideo AI | Yes | Video Generation |
+| Fliki | Yes | Text to Video |
 
 ---
 
@@ -92,6 +101,9 @@
 | Blackbox AI | Yes | Code Search |
 | CodiumAI | Yes | Code Testing |
 | Mutable AI | Limited | Code Generation |
+| Phind | Yes | Developer Search |
+| AskCodi | Limited | Coding Assistant |
+| Sourcegraph Cody | Yes | Codebase Help |
 
 ---
 
@@ -108,6 +120,9 @@
 | Mem AI | Yes | Smart Notes |
 | Superhuman AI | Limited | Email Productivity |
 | Rewind AI | Limited | Memory Assistant |
+| ClickUp AI | Limited | Project Management |
+| Otter AI | Yes | Meeting Notes |
+| Fireflies AI | Yes | Meeting Transcripts |
 
 ---
 
@@ -120,6 +135,9 @@
 | Socratic | Yes | Homework Support |
 | Explainpaper | Yes | Research Help |
 | Elicit AI | Yes | Research Assistant |
+| Tutor AI | Yes | Personalized Learning |
+| Consensus | Yes | Research Search |
+| Humata AI | Yes | PDF Study Help |
 
 ---
 
@@ -131,6 +149,9 @@
 | Beautiful.ai | Limited | Business Presentations |
 | CopyMonkey | Yes | E-commerce Copy |
 | Ocoya | Yes | Social Media AI |
+| Durable AI | Yes | Website Builder |
+| Namelix | Yes | Business Names |
+| Predis AI | Yes | Social Media Content |
 
 ---
 
@@ -142,6 +163,9 @@
 | Murf AI | Limited | AI Voice |
 | PlayHT | Yes | Text to Speech |
 | Resemble AI | Limited | Voice Cloning |
+| Speechify | Yes | Text to Speech |
+| LOVO AI | Limited | AI Voiceovers |
+| WellSaid Labs | Limited | Voice Generation |
 
 ---
 
@@ -154,6 +178,8 @@
 | Bardeen AI | Yes | Task Automation |
 | AgentGPT | Yes | AI Agents |
 | AutoGPT | Yes | Autonomous Tasks |
+| TaskMagic | Yes | Browser Automation |
+| IFTTT | Yes | App Automation |
 
 ---
 
@@ -166,6 +192,8 @@
 | Khroma | Yes | Color Tools |
 | Designs.ai | Limited | Branding |
 | Looka | Limited | Logo Design |
+| Visme AI | Yes | Visual Content |
+| Microsoft Designer | Yes | Graphic Design |
 
 ---
 
@@ -178,6 +206,8 @@
 | ChatSonic | Yes | AI Assistant |
 | Pi AI | Yes | Personal AI |
 | Claude | Yes | AI Chat |
+| You.com | Yes | AI Search Chat |
+| HuggingChat | Yes | Open Chatbot |
 
 ---
 
