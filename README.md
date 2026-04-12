@@ -1,4 +1,4 @@
-# 🚀 Ultimate Free AI Tools (2026) - 90+ Tools 🚀
+# 🚀 Ultimate Free AI Tools (2026) - 100+ Tools 🚀
 
 <img src="https://github.com/user-attachments/assets/532539cb-0d67-45c4-a616-984a9cf181c7" width="100%" />
 
@@ -49,6 +49,7 @@
 | HyperWrite | Yes | AI Writing |
 | Anyword | Limited | Marketing Content |
 | Jenni AI | Yes | Academic Writing |
+| Peppertype AI | Yes | Content Writing |
 
 ---
 
@@ -68,6 +69,7 @@
 | DreamStudio | Yes | Stable Diffusion Images |
 | Adobe Firefly | Yes | Creative Design |
 | Craiyon | Yes | Quick Image Generation |
+| NightCafe | Yes | AI Art Generator |
 
 ---
 
@@ -86,6 +88,7 @@
 | VEED.IO | Yes | Online Video Editing |
 | InVideo AI | Yes | Video Generation |
 | Fliki | Yes | Text to Video |
+| Animoto | Yes | Video Maker |
 
 ---
 
@@ -104,6 +107,7 @@
 | Phind | Yes | Developer Search |
 | AskCodi | Limited | Coding Assistant |
 | Sourcegraph Cody | Yes | Codebase Help |
+| CodeWP | Yes | WordPress Coding |
 
 ---
 
@@ -123,6 +127,7 @@
 | ClickUp AI | Limited | Project Management |
 | Otter AI | Yes | Meeting Notes |
 | Fireflies AI | Yes | Meeting Transcripts |
+| Reflect AI | Yes | Note Taking |
 
 ---
 
@@ -138,6 +143,7 @@
 | Tutor AI | Yes | Personalized Learning |
 | Consensus | Yes | Research Search |
 | Humata AI | Yes | PDF Study Help |
+| Studyable | Yes | AI Study Help |
 
 ---
 
@@ -152,6 +158,7 @@
 | Durable AI | Yes | Website Builder |
 | Namelix | Yes | Business Names |
 | Predis AI | Yes | Social Media Content |
+| Smartwriter AI | Yes | Outreach Emails |
 
 ---
 
@@ -166,6 +173,7 @@
 | Speechify | Yes | Text to Speech |
 | LOVO AI | Limited | AI Voiceovers |
 | WellSaid Labs | Limited | Voice Generation |
+| Voice.ai | Yes | Voice Changing |
 
 ---
 
@@ -180,6 +188,7 @@
 | AutoGPT | Yes | Autonomous Tasks |
 | TaskMagic | Yes | Browser Automation |
 | IFTTT | Yes | App Automation |
+| Pabbly Connect | Yes | Workflow Automation |
 
 ---
 
@@ -194,6 +203,7 @@
 | Looka | Limited | Logo Design |
 | Visme AI | Yes | Visual Content |
 | Microsoft Designer | Yes | Graphic Design |
+| Kittl AI | Yes | Design Templates |
 
 ---
 
@@ -208,6 +218,7 @@
 | Claude | Yes | AI Chat |
 | You.com | Yes | AI Search Chat |
 | HuggingChat | Yes | Open Chatbot |
+| Jan.ai | Yes | Local AI Chat |
 
 ---
 
